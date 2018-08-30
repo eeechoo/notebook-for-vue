@@ -9,4 +9,11 @@ vue使用中的一些知识点
    https://github.com/ly525/blog/issues/90
 
   
-3. terminal vue
+  
+  
+  
+  
+基于web的命令行
+3. 在github搜素terminal vue
+   
+   相关插件 xterm js
