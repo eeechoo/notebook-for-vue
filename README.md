@@ -14,6 +14,6 @@ vue使用中的一些知识点
   
   
 基于web的命令行
-3. 在github搜素terminal vue
+1. 在github搜素terminal vue
    
    相关插件 xterm js
